@@ -6,7 +6,9 @@ Eu achei isso muito interessante, então resolvi seguir a ideia a risca e aprove
 
 Como gosto muito de video game eu transformei a experiência em um game, onde cada fase tem um Level e um Boss, sendo o primeiro o que aprender, e o Boss uma espécie de auto-desafio. 
 
-Vamos lá! Start The Game!
+**Vamos lá! Start The Game!**
+
+## GAMEPLAY
 
 Level 1: Aprender HTML e CSS. O Básico do básico mas que você usará todos os santos ou demoníacos dias de sua vida. Eu sugiro aprender esses dois carinhas sem framework nenhum envolvido. Crie um arquivo .html e um .css em uma pasta no seu computador e leia a bíblica documentação da [W3 School](https://www.w3schools.com/html/) ou do livro "protestante" da [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
 
@@ -39,6 +41,14 @@ Boss do Level 7: Para derrotar esse cara, você vai precisar criar uma aplicaç�
 
 
 ---
+
+
+## LEVELUPS
+
+### 1. A necessidade é a mãe da inveção e também do aprendizado (real)
+Cerca de 80% de tudo que eu aprendi e retive de conhecimento (atenção para a segunda informação), foi conquistado enquanto estava trabalhando. **Explico**: o dia a dia de um desenvolvedor é sobre *leitura*, *experimentação* e *validação*, sendo que nessas três fases você estará aprendendo coisas novas, e justamente por estar com a "mão na massa", este conhecimento vai ser cravado muito mais seu cerebelo, do que uma documentação ou vídeo que você venha a consumidor "fora de hora". Por isso, toda vez que você sentir-se ansioso por desconhecer demais o assunto que está sendo tratato, tome um ar, respire fundo e lembre-se disso: você vai aprender no caminho.
+
+
 
 Daqui para baixo é só texto bruto:
 
@@ -73,3 +83,5 @@ Daqui para baixo é só texto bruto:
 -   Metodologias ágeis, como o Scrum ou o Kanban
 -   Segurança de aplicações web e como evitar vulnerabilidades comuns
 -   Boas práticas de design e experiência do usuário (UX)
+
+
