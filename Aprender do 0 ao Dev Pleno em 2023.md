@@ -1,6 +1,6 @@
 
-Em um grupo de amigos, onde eu era o único que passava o dia inteiro falando com máquinas (kkkrying) por dinheiro me direcionaram a seguinte pergunta: 
-- Tô pensando seriamente em começar a programar, mas fico perdida... Se você pudesse viajar no tempo e montar uma lista do que mais usa no seu dia a dia para estudar antes de começar, o que você colocaria nela?
+Outro dia estava eu com um grupo de amigos, bebendo e jogando conversa fora. Eis que uma amiga, quando estávamos falando sobre profissões lembrou que eu era o cara que "passava o dia inteiro falando com máquinas" (kkkrying) por dinheiro e me direcionou a seguinte pergunta: 
+*– Tô pensando seriamente em começar a programar, mas fico perdida... Se você pudesse viajar no tempo e montar uma lista do que mais usa no seu dia a dia para estudar antes de começar, o que você colocaria nela?*
 
 Eu achei isso muito interessante, então resolvi seguir a ideia a risca e aproveitar para documentar TUDO que aprendi nesses últimos 2 anos programando especificamente em front-end com Javascript em aplicações complexas feitas com os frameworks mais sexy e ativos do momento como React (é uma lib, o cringe dirá), Vue, Next, Nuxt, Vite e Liquid.
 
@@ -38,7 +38,9 @@ Level 7: Aprendendo sobre outras áreas. Aqui é onde a diversão começa a fica
 Boss do Level 7: Para derrotar esse cara, você vai precisar criar uma aplicação web que tenha um design elegante e que seja intuitiva para o usuário final. 
 
 
+---
 
+Daqui para baixo é só texto bruto:
 
 - Prettier e porque estilo de código é tão importante (~~eu já fui eliminado em um teste técnico por causa de identação~~)
 - Lint não é um Pokemón! Na verdade, ele pode ser um monstrinho, mas também pode ser seu aliado... na verdade Lint é tipo um Pokemon!
@@ -71,16 +73,3 @@ Boss do Level 7: Para derrotar esse cara, você vai precisar criar uma aplicaç�
 -   Metodologias ágeis, como o Scrum ou o Kanban
 -   Segurança de aplicações web e como evitar vulnerabilidades comuns
 -   Boas práticas de design e experiência do usuário (UX)
--   Desenvolvimento de aplicações em realidade virtual ou aumentada
--   IoT (Internet das Coisas) e como integrar dispositivos físicos em aplicações web
--   Machine learning e como adicionar recursos de inteligência artificial em suas aplicações
--   Comunicação com outras linguagens, como Python ou Ruby
--   Desenvolvimento de games e aplicações para dispositivos móveis com tecnologias como o Unity ou o Unreal Engine
--   Gestão de banco de dados em aplicações web, como o MongoDB ou o MySQL
--   Desenvolvimento de aplicações em linguagens de programação funcional, como o Haskell ou o Elixir
--   Desenvolvimento de aplicações com tecnologias de servidor e banco de dados de código aberto, como o Linux, o Apache e o MySQL
--   Desenvolvimento de aplicações para dispositivos de realidade aumentada, como o HoloLens ou o Magic Leap
--   Desenvolvimento de aplicações para plataformas de nuvem, como o Salesforce ou o Azure
-
-
-Se tiver mais de 50 likes eu vou continuar
