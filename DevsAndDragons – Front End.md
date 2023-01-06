@@ -1,14 +1,25 @@
+**Um produto Synt**
+
+[DOMÍNIO](https://domains.google.com/registrar/search?searchTerm=devsandragons&hl=en&_ga=2.84640090.214713582.1673034383-1868655706.1673034383#)
 
 Outro dia estava eu com um grupo de amigos, bebendo e jogando conversa fora. Eis que uma amiga, quando estávamos falando sobre profissões lembrou que eu era o cara que "passava o dia inteiro falando com máquinas" (kkkrying) por dinheiro e me direcionou a seguinte pergunta: 
 *– Tô pensando seriamente em começar a programar, mas fico perdida... Se você pudesse viajar no tempo e montar uma lista do que mais usa no seu dia a dia para estudar antes de começar, o que você colocaria nela?*
 
-Eu achei isso muito interessante, então resolvi seguir a ideia a risca e aproveitar para documentar TUDO que aprendi nesses últimos 2 anos programando especificamente em front-end com Javascript em aplicações complexas feitas com os frameworks mais sexy e ativos do momento como React (é uma lib, o cringe dirá), Vue, Next, Nuxt, Vite e Liquid.
+Eu achei isso muito interessante, então resolvi seguir a ideia a risca e aproveitar para documentar TUDO que aprendi nesses últimos 2 anos programando especificamente em front-end, com meus mais de 5 anos sendo Project Manager e dev full stack de negócios digitais na minha agência, a NÓS. Mas neste processo, enquanto elencava pontos de atenção (centenas) e dicas (outras centenas), eu tive outra ideia: criar um jogo!
 
-Como gosto muito de video game eu transformei a experiência em um game, onde cada fase tem um Level e um Boss, sendo o primeiro o que aprender, e o Boss uma espécie de auto-desafio. 
+Por que  criar outra thread no Twitter (sorry not sorry, Musk), quando se pode transcender o conteúdo estático e criar algo interativo, imersivo e visual, como um prorama de computador?
+
+Eis então que iniciei minha jornada falando com meus amigos Thiago's (Nascimento e Rodrigues), para que possamos, a seis mãos, criar este que será um framework de aprendizado / especialização, e o primeiro deles será: DevPleno Front-end.
+
+Como transformar Javascript em aplicações complexas feitas com os frameworks mais sexy e ativos do momento como React (é uma lib, o cringe dirá), Vue, Next, Nuxt, Vite e Liquid.
+
+Como gosto muito de RPG eu transformei eu formatei um **ROLEPLAY** para ser um jogo, onde cada fase tem um **Level** e um **Boss**, sendo o primeiro o que aprender, e o Boss uma espécie de auto-desafio. E a cada fase passada, um **LEVELUP** é liberado (poder / aprendizado consolidado / lição). 
+
+O resto é um grande WORK IN PROGRESS.
 
 **Vamos lá! Start The Game!**
 
-## GAMEPLAY
+## ROLEPLAY
 
 Level 1: Aprender HTML e CSS. O Básico do básico mas que você usará todos os santos ou demoníacos dias de sua vida. Eu sugiro aprender esses dois carinhas sem framework nenhum envolvido. Crie um arquivo .html e um .css em uma pasta no seu computador e leia a bíblica documentação da [W3 School](https://www.w3schools.com/html/) ou do livro "protestante" da [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
 
@@ -47,6 +58,8 @@ Boss do Level 7: Para derrotar esse cara, você vai precisar criar uma aplicaç�
 
 ### 1. A necessidade é a mãe da inveção e também do aprendizado (real)
 Cerca de 80% de tudo que eu aprendi e retive de conhecimento (atenção para a segunda informação), foi conquistado enquanto estava trabalhando. **Explico**: o dia a dia de um desenvolvedor é sobre *leitura*, *experimentação* e *validação*, sendo que nessas três fases você estará aprendendo coisas novas, e justamente por estar com a "mão na massa", este conhecimento vai ser cravado muito mais seu cerebelo, do que uma documentação ou vídeo que você venha a consumidor "fora de hora". Por isso, toda vez que você sentir-se ansioso por desconhecer demais o assunto que está sendo tratato, tome um ar, respire fundo e lembre-se disso: você vai aprender no caminho.
+
+### 2. Senso de responsabilidade 
 
 
 
